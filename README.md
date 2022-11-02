@@ -9,7 +9,7 @@ windows
 3. configure to run with highest privileges, and to run whether user is logged on or not
 4. configure trigger to run on system start
 5. configure action to start a program and locate the vera.cmd
-6. edit vera.cmd to provide the path to where openssl.exe is located
+6. edit vera.cmd to provide the path to where openssl.exe is located.  increase the default 200M to meet your needs
 7. reboot or run the scheduled task
 
 firefox
