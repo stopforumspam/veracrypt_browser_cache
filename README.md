@@ -25,5 +25,12 @@ chrome
 1. add the following parameter to the chrome shortcut
     --disk-cache-dir="r:\" --disk-cache-size=20485760
     
+edge
+
+1. go to path "C:\Users\%USERNAME%\AppData\Local\Microsoft\Edge\User Data\Default"
+2. delete folder "Cache"
+3. open admin cmd, enter command 
+   mklink /d "C:\Users\%USERNAME%\AppData\Local\Microsoft\Edge\User Data\Default\Cache" "r:\"
+    
     
 
