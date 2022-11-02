@@ -1,0 +1,1 @@
+# veracrypt_browser_cache
