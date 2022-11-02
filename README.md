@@ -12,11 +12,11 @@ windows
 6. edit vera.cmd to provide the path to where openssl.exe is located.  increase the default 200M to meet your needs
 7. reboot or run the scheduled task
 
-firefox
+firefox / waterfox (etc)
 
 1. about:config
 2. create a string for browser.cache.disk.parent_directory
-3. set to r:\
+3. set to r:\ff (or r:\wf etc)
 4. restart firefox
 5. check path is used in about:cache
 
