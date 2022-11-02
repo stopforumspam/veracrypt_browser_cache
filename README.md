@@ -20,3 +20,10 @@ firefox
 4. restart firefox
 5. check path is used in about:cache
 
+chrome
+
+1. add the following parameter to the chrome shortcut
+    --disk-cache-dir="r:\" --disk-cache-size=20485760
+    
+    
+
