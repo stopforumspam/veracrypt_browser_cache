@@ -30,7 +30,7 @@ edge
 1. go to path "C:\Users\%USERNAME%\AppData\Local\Microsoft\Edge\User Data\Default"
 2. delete folder "Cache"
 3. open admin cmd, enter command 
-   mklink /d "C:\Users\%USERNAME%\AppData\Local\Microsoft\Edge\User Data\Default\Cache" "r:\"
+   mklink /d "C:\Users\\%USERNAME%\AppData\Local\Microsoft\Edge\User Data\Default\Cache" "r:\"
     
     
 
