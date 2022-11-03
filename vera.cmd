@@ -8,5 +8,4 @@ echo Formatting
 
 echo Mounting
 "C:\Program Files\VeraCrypt\VeraCrypt.exe" /volume "%USERPROFILE%\tempdisk.vc" /letter r /password %PASSWD% /quit /m rm
-
-
+mkdir r:\temp
