@@ -1,6 +1,6 @@
 # veracrypt_browser_cache
 
-creates, formats, and mounts an temporary veracrypt drive that exists until a reboot.  it can be scheduled to run on startup to provide an empty/clean cache to your browser on every windows restart.  every restart will generate a new volume password to prevent temporary/cache data persisting
+creates, formats, and mounts a temporary veracrypt drive that exists until reboot when its recreated with a different random password.  it can be scheduled to run on startup to provide an on-restart empty/clean drive, for use for windows temporary storage or as a cache to your browser.
 
 windows
 
